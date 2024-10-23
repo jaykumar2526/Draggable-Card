@@ -1,6 +1,6 @@
 # Draggable Card
-![Alt text](assets/pi.png)
-
+![Alt text](src/assets/p1.png)
+![Alt text](src/assets/p2.png)
 
 
 ## Overview

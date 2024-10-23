@@ -1,8 +1,26 @@
-# React + Vite
+# Draggable Card
+![Alt text](assets/pi.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+**Draggable Card** is a React-based web application that allows users to create, view, and rearrange cards by dragging and dropping them. This project showcases the use of modern web development practices, including responsive design and user interaction through drag-and-drop functionality.
+
+## Features
+- **Drag and Drop**: Easily move cards around the interface to organize them as desired.
+- **Responsive Design**: The application is fully responsive and works seamlessly on various devices.
+- **Customizable Cards**: Users can add their content and customize the appearance of each card.
+
+## Technologies Used
+- **React**: A JavaScript library for building user interfaces.
+- **HTML/CSS**: For structuring and styling the application.
+- **Vite**: A fast build tool for modern web projects.
+
+## Installation
+To get started with the Draggable Card project, follow these steps:
+
+ **Clone the Repository**:
+   ```bash
+   git clone https://github.com/jaykumar2526/Draggable-Card.git
+
+
